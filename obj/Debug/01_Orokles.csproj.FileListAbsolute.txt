@@ -1,0 +1,7 @@
+C:\Users\Kovács András\source\repos\SZTF2_Ismetles\01_Orokles\bin\Debug\01_Orokles.exe.config
+C:\Users\Kovács András\source\repos\SZTF2_Ismetles\01_Orokles\bin\Debug\01_Orokles.exe
+C:\Users\Kovács András\source\repos\SZTF2_Ismetles\01_Orokles\bin\Debug\01_Orokles.pdb
+C:\Users\Kovács András\source\repos\SZTF2_Ismetles\01_Orokles\obj\Debug\01_Orokles.csprojAssemblyReference.cache
+C:\Users\Kovács András\source\repos\SZTF2_Ismetles\01_Orokles\obj\Debug\01_Orokles.exe
+C:\Users\Kovács András\source\repos\SZTF2_Ismetles\01_Orokles\obj\Debug\01_Orokles.pdb
+C:\Users\Kovács András\source\repos\SZTF2_Ismetles\01_Orokles\obj\Debug\01_Orokles.csproj.CoreCompileInputs.cache
